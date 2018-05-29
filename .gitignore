@@ -1,3 +1,7 @@
+#Custom
+**/www/*
+**/.*
+
 # Logs
 logs
 *.log

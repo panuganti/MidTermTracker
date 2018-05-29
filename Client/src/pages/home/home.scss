@@ -1,0 +1,10 @@
+page-home {
+    .scroll-content {
+        background-color: map-get($map: $colors, $key: light);
+    }
+
+    .chart {
+        height: 75% !important;
+        width: 75% !important;
+    }
+}
